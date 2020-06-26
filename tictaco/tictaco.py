@@ -68,7 +68,7 @@ def main():
 
         player = check_win(s)
         if player is not None:
-            print(f"{player} wins!")
+            print(f"{player} wins! 🌮")
             break
 
         print(f"{turn} turn")

@@ -1,15 +1,24 @@
-# ttt
+# tictaco
 
-Tic Tac Toe!
+Tic Tac Toe! 🌮
 
 ## Installation
 
 <pre>
-$ pip install ttt
+$ pip install tictaco
 </pre>
 
 ## Usage
 
-<pre>
-$ ttt
-</pre>
+```
+$ tictaco
+     |     |
+ (1) | (2) | (3)
+-----------------
+     |     |
+ (4) | (5) | (6)
+-----------------
+     |     |
+ (7) | (8) | (9)
+x turn
+```

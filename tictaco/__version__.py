@@ -14,9 +14,9 @@ def generate_version(version, prerelease=None, revision=None):
     return "".join(version_parts)
 
 
-__title__ = "ttt"
-__description__ = "Tic Tac Toe!"
-__url__ = "https://github.com/vinayak-mehta/ttt"
+__title__ = "tictaco"
+__description__ = "Tic Tac Toe! 🌮"
+__url__ = "https://github.com/vinayak-mehta/tictaco"
 __version__ = generate_version(VERSION, prerelease=PRERELEASE, revision=REVISION)
 __author__ = "Vinayak Mehta"
 __author_email__ = "vmehta94@gmail.com"
