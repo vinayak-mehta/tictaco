@@ -34,7 +34,7 @@ def setup_package():
         extras_require={"dev": dev_requires},
         entry_points={
             "console_scripts": [
-                "ttt = ttt.ttt:main",
+                "tictaco = tictaco.tictaco:main",
             ]
         },
         classifiers=[
