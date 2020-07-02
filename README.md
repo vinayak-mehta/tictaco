@@ -27,7 +27,6 @@ Enter game mode: 1
 And play a game!
 
 ```
-$ tictaco
      |     |
  (1) | (2) | (3)
 -----------------
